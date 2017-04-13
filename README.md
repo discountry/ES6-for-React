@@ -1,3 +1,17 @@
-# My Awesome Book
+# Why I wrote this?
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Facebook has just released the v15.5.0 of React.
+
+In this new version, some main fuctions (e.g. `createClass`) are deprecated.
+
+React supported ES6 syntax since v0.14.*, and facebook recomanded us to use new ES6 syntax to write React App.
+
+But most of us are still stay in the "jQuery Age", we hate new syntax, we hate JSX, and we don't want to change.
+
+Actually, many new sytaxes ES6 standard offer us are quite useful. Espacially keywords like `class` `import` and etc. really enhanced the capbilities of JavaScript. Syntactic sugar like arrow function could save lots of our time.
+
+But at the same time, ES6 JavaScript are much more like a totally different language for newbies. We have to change lots of traditions and learn many new keywords we haven't seen.
+
+So, it's very necessary for us to learn ES6 JavaScript before we learn React.
+
+Of course, many of us don't have that much time to go through the whole standard of ES6. So, I dragged out the most important parts of ES6 that we often apply in React, reorganized those key points for saving learners' time.

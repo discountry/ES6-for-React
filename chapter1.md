@@ -1,3 +1,7 @@
-# First Chapter
+# Who should read this?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Newbie who want to learn the newest version of React, but have no idea what ES6 is.
+
+Learner who want to change, learn new things and taste the super power of ES6.
+
+
