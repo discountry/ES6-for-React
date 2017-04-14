@@ -2,8 +2,7 @@
 
 ## Introduction
 
-* [Introduction](introduction.md)
-* [delete](README.md)
+* [Introduction](README.md)
 
 ## Content
 
