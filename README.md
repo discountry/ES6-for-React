@@ -18,9 +18,9 @@ Of course, many of us don't have that much time to go through the whole standard
 
 ## Who should read this? {#who-should-read-this}
 
-Newbie who want to learn the newest version of React, but have no idea what ES6 is.
+* Newbie who want to learn the newest version of React, but have no idea what ES6 is.
 
-Learner who want to change, learn new things and taste the super power of ES6.
+* Learner who want to change, learn new things and taste the super power of ES6.
 
 ## Packages version {#packages-version}
 
