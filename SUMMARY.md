@@ -3,7 +3,7 @@
 ## Introduction
 
 * [Introduction](introduction.md)
-* [Why I wrote this?](README.md)
+* [delete](README.md)
 
 ## Content
 
