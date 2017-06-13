@@ -15,7 +15,7 @@
 ## Standard built-in objects
 
 * [Arrow functions](arrow-functions.md)
-* [Template literals](template-literals.mdown)
+* [Template literals](template-literals.md)
 
 ## Expressions and operators
 
