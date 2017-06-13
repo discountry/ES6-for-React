@@ -4,9 +4,18 @@
 
 * [Introduction](README.md)
 
-## Content
+## Statements and declarations
 
-* [Keywords](keywords.md)
-  * [let](let.md)
-  * [const](const.md)
+* [let](let.md)
+* [const](const.md)
+* [class](class.md)
+* [import](import.md)
+* [export](export.md)
+
+## Standard built-in objects
+
+* [Arrow functions](arrow-functions.md)
+* [Template literals](template-literals.mdown)
+
+## Expressions and operators
 
