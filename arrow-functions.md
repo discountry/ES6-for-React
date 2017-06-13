@@ -80,7 +80,10 @@ setTimeout( () => {
 
 ### Usage
 
+In React:
+
 ```jsx
+// Event autobiding
 class LoggingButton extends React.Component {
   handleClick() {
     console.log('this is:', this);
@@ -93,6 +96,35 @@ class LoggingButton extends React.Component {
         Click me
       </button>
     );
+  }
+}
+```
+
+In Redux
+
+```js
+// reducer
+function todos(state = [], action) {
+  switch (action.type) {
+    case ADD_TODO:
+      return [
+        ...state,
+        {
+          text: action.text,
+          completed: false
+        }
+      ]
+    case TOGGLE_TODO:
+      return state.map((todo, index) => {
+        if (index === action.index) {
+          return Object.assign({}, todo, {
+            completed: !todo.completed
+          })
+        }
+        return todo
+      })
+    default:
+      return state
   }
 }
 ```
