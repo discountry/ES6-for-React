@@ -46,8 +46,8 @@ The learner who want to change, learn new things and taste the super power of ES
 
 ## Packages version
 
-* [react@15.5.4](https://libraries.io/npm/react/15.5.4)
-* [react-dom@15.5.4](https://libraries.io/npm/react-dom/15.5.4)
+* [react@15.6.1](https://libraries.io/npm/react/15.6.1)
+* [react-dom@15.6.1](https://libraries.io/npm/react-dom/15.6.1)
 * [redux@3.6.0](https://libraries.io/npm/redux/3.6.0)
 
 ## Softwares we use
