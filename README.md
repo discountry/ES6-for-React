@@ -18,6 +18,26 @@ So, it's very necessary for us to learn ES6 JavaScript before we learn React.
 
 Of course, many of us don't have that much time to go through the whole standard of ES6. So, I dragged out the most important parts of ES6 that we often apply in React, reorganized those key points for saving learners' time.
 
+## Why using ES6+ syntaxes
+
+If you refuse to use ES6 & JSX features, you probabbly have to write React code like this:
+
+```js
+var createReactClass = require('create-react-class');
+
+var Greeting = createReactClass({
+  render: function() {
+    return React.createElement('div', null, 'Hello ' + this.props.name);
+  }
+});
+```
+
+But when using `arrow function` and JSX you are able to refactor above codes in one line:
+
+```js
+const Greeting = props => <div>Hello {props.name}</div>
+```
+
 ## Who should read this?
 
 Newbie who want to learn the newest version of React, but have no idea what ES6 is.
