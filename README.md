@@ -12,11 +12,11 @@ But most of us are still stay in the "jQuery Age", we hate new syntax, we hate J
 
 Actually, many new syntaxes ES6 standard offer us are quite useful. Especially keywords like `class` `import` and etc. truly enhanced the capabilities of JavaScript. Syntactic sugar like arrow function could save lots of our time.
 
-But at the same time, ES6 JavaScript is much more like a totally different language for newbies. We have to change lots of traditions and learn many new keywords we haven't seen.
+But at the same time, ES6 JavaScript is much more like a totally different language for newbies. We have to change lots of traditions as well as learn many new keywords we haven't seen.
 
 So, it's very necessary for us to learn ES6 JavaScript before we learn React.
 
-Of course, many of us don't have that much time to go through the whole standard of ES6. So, I dragged out the most important parts of ES6 that we often apply in React, reorganized those key points for saving learners' time.
+Of course, many of us don't have that much time to go through the whole standard document of ES6. So, I gathered the most important parts of ES6 that we often apply in React, reorganized those key points for saving learners' time.
 
 ## Why using ES6+ syntaxes
 
