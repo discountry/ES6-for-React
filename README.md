@@ -6,11 +6,11 @@ Facebook has just released the v15.5.0 of React.
 
 In this new version, some main functions (e.g. `createClass`) are deprecated.
 
-React supported ES6 syntax since v0.14.*, and Facebook recommended us to use new ES6 syntax to write React App.
+React supported ES6 syntax since v0.14.*, and Facebook recommends us to use new ES6 syntax to write React App.
 
 But most of us are still stay in the "jQuery Age", we hate new syntax, we hate JSX, and we don't want to change.
 
-Actually, many new syntaxes ES6 standard offer us are quite useful. Especially keywords like `class` `import` and etc. really enhanced the capabilities of JavaScript. Syntactic sugar like arrow function could save lots of our time.
+Actually, many new syntaxes ES6 standard offer us are quite useful. Especially keywords like `class` `import` and etc. truly enhanced the capabilities of JavaScript. Syntactic sugar like arrow function could save lots of our time.
 
 But at the same time, ES6 JavaScript is much more like a totally different language for newbies. We have to change lots of traditions and learn many new keywords we haven't seen.
 
